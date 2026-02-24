@@ -1,7 +1,15 @@
 {
   "name": "github-finds",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A comprehensive GitHub CLI — browse profiles, repos, PRs, issues, Actions, and more",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishhs-gh/github-finds.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anishhs-gh/github-finds/issues"
+  },
+  "homepage": "https://github.com/anishhs-gh/github-finds#readme",
   "license": "MIT",
   "type": "module",
   "bin": {
